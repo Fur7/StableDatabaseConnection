@@ -14,7 +14,6 @@
  * // The function will return the data, if data is returned.
  * $data = run::Query("{SELECT QUERY}");
  *
- * ~ Ferry
  */
 
 interface DatabaseConnectionModel {
