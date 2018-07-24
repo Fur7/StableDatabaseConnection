@@ -4,7 +4,7 @@
 
 Set-up the class. This has to be done only once in the project.
 
-    run::Credentials("basic","root","");
+    run::Credentials("{DATABASE}","{USERNAME}","{PASSWORD}","{HOST (127.0.0.1)}","{PORT (3306)}");
 
 To run a query after setting the credentials.
 
